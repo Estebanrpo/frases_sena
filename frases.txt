@@ -1,3 +1,4 @@
 La programacion es como resolver acertijos
 este es mi primer commit tatianan
-esta es el  tercer commit tatiana
+esta es el  segundo commit Tatiana
+esta es el tercer commit tatiana
