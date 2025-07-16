@@ -5,3 +5,7 @@ la vida es una vuelta en ciclo
 si pudiera vivir seria una variable
 
 elejir morir es tan facil que aprender vectores
+
+la vida la tengo en modo boolean y estoy en default
+
+si, acepto los terminos y cambio de contraseña
